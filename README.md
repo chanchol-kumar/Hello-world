@@ -8,11 +8,6 @@ Hajee MOhammad Danesh Science & Technology University,Dinajpur-5200
 Bangladesh
 --->
 
-<p align="center">
-
-“Hello World” Program In 24 Different Languages
-</p>
-
 <b><p> <center> <h1>“Hello World” Program In 24 Different Languages </h1></center></p>
 
 ### C language
@@ -217,4 +212,4 @@ PROCEDURE DIVISION.
 ```
 <br/>
 
-# <b><p> <center> THANK YOU </center></p>
+# <b><p> <center>                                                      THANK YOU </center></p>
